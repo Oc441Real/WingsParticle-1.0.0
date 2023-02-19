@@ -5,4 +5,4 @@ Depend:
 - FromApi
 - DevTols
 
-thanks to NotRaa for helping me
+thanks to NotRaa for help me
