@@ -1,0 +1,8 @@
+---
+name: WingsParticle
+main: Oc441\WingsParticle\Loader
+author: Oc441
+version: 1.0.0
+api:
+- 4.0.0
+...
